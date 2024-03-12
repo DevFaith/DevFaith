@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevFaith
+- 👋 Hi, I’m @DevFaith :Also know as Feii Hesh
 - 👀 I’m interested in web development and python enthuasist
 - 🌱 I’m currently learning database SQL
 - 💞️ I’m looking to collaborate on open source projects,hackathon and developer communities
